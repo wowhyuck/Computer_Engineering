@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AVL 트리.c">
+    <ClCompile Include="해시.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
