@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="프림 알고리즘.c">
+    <ClCompile Include="다익스트라의 최단 경로.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
